@@ -1,0 +1,2 @@
+class ValueContainer:
+    value: int
